@@ -4,11 +4,11 @@ Hi 👋 My name is Andrea Álvarez
 Computer Student
 ----------------
 
-Student at the Rafael Belloso Chacin since 2018... Focused on Web Development
+Student at the Rafael Belloso Chacín University since 2018... Focused on Web Development
 
 * 🌍  I'm based in Maracaibo, Venezuela
 * ✉️  You can contact me at [alvarez.andreabeatriz@gmail.com](mailto:alvarez.andreabeatriz@gmail.com)
-* 🧠  I'm learning JavaScript/Node.js
+* 🧠  I'm currently learning JavaScript/Node.js
 
 ### Skills
 
@@ -24,7 +24,7 @@ Student at the Rafael Belloso Chacin since 2018... Focused on Web Development
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/andrealvarez2d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/andrealvarez.2d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
